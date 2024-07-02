@@ -69,18 +69,6 @@ Before getting started, ensure that you have the following prerequisites install
 ### Video 🎥
 https://github.com/Vinayak409/File-Sharing-App-MERN-Stack/assets/75150039/5feccac6-8004-4a4b-9e67-3db542b159c9
 
-
-<!-- CONTACT -->
-
-## Contact
-
-<a target="_blank" href="https://www.linkedin.com/in/vinayak-chittora/">
- <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a target="_blank" href="mailto:vinayakchittora31@gmail.com">
- <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
 <br>
 <br>
 <br>
